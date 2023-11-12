@@ -19,7 +19,7 @@ const manel = {
   freelancer: {
             role: [Developer, GraphicDesigner],
             contact: "manelcastellvicerezuela@gmail.com",
-            projects: "Tekapps, GooglePersonalized"
+            projects: [MyFood, Tekapps, BusEMT, GoogleEdit]
   },
   challenge: "I am doing the #1YearOfAllCodes challenge"
 }
