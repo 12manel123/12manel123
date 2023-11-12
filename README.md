@@ -27,4 +27,5 @@ const manel = {
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi,<b> I'll be happy to meet you more!</b> :)</em>
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12manel123&hide_progress=true)
 [![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=12manel123)](https://github.com/anuraghazra/github-readme-stats)
