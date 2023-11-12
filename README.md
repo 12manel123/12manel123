@@ -1,8 +1,8 @@
 <h2> Hi, I'm Manel Castellví! </h2>
 <img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="230">
 
-🚀 Passionate Full Stack Developer on a mission to exceed technological standards with innovative solutions.<br>
-💻 Conflict resolution aficionado through effective communication and teamwork. Navigating the vast realm of development to craft unique and functional experiences.<br>
+🚀 On a mission to exceed technological standards with innovative solutions.<br>
+💻 I am passionate about navigating the vast realm of development to create unique experiences.<br>
 🌐 Join me on this journey of turning code into reality! #CodeDreamer #InnovationEnthusiast <br>
 
 [![Linkedin: manelcc](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/manelcc/)
