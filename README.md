@@ -17,10 +17,10 @@ const manel = {
   tools: [Node, Docker, Ionic, Spring, Firebase, Railway],
   architecture: ["microservices", "MVC", "RESTful APIs"],
   freelancer: {
-                        role: [Developer, GraphicDesigner],
-                        contact: Linkedin,
-                        projects: "Tekapps, GooglePersonalized"
-                      },
+            role: [Developer, GraphicDesigner],
+            contact: Linkedin,
+            projects: "Tekapps, GooglePersonalized"
+  },
   challenge: "I am doing the #1YearOfAllCodes challenge"
 }
 ```
