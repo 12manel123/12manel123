@@ -1,41 +1,32 @@
-<h2> Hi, I'm Thai Braga! 
+<h2> Hi, I'm Manel Castellví! 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+🚀 Passionate Full Stack Developer on a mission to exceed technological standards with innovative solutions.<br>
+💻 Conflict resolution aficionado through effective communication and teamwork. Navigating the vast realm of development to craft unique and functional experiences.<br>
+🌐 Join me on this journey of turning code into reality! #CodeDreamer #InnovationEnthusiast <br>
 
+[![Linkedin: manelcc](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/manelcc/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/12manel123?label=follow&style=social)](https://github.com/12manel123)
+[![GitHub Thaiane](https://img.shields.io/badge/Curriculum-Vitae)](https://manelcc-web.000webhostapp.com/cv.pdf)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const manel = {
+  pronouns: "he" | "him",
+  code: [Javascript, Java, Angular, PHP, SQL, C#, C++],
+  tools: [Node, Docker, Ionic, Spring, Firebase, Railway],
+  architecture: ["microservices", "event-driven"],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "RailsGirls POA"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #2YearOfAllCodes challenge"
 }
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-
-⭐️ From [@Thaiane](https://github.com/Thaiane)
-
-
-
-![DANCE!](https://cloud-it.pe/wp-content/uploads/2022/12/oie_783313CNtVCiRT.gif)
-
-**[Mi pagina web en desarrollo](https://manelcc-web.000webhostapp.com)** o **[comisiones abiertas](https://manelcc.carrd.co/)** y muchas mas cosas! Contactame y os doy una mano!
-
-**[Discord](https://discord.gg/axBC8cq)** & **[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=12manel123%40gmail.com&item_name=Mejorar+calidad+de+mis+directos%21+12manel123+en+Twitch&currency_code=EUR)**
