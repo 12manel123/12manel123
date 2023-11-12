@@ -18,7 +18,7 @@ const manel = {
   architecture: ["microservices", "MVC", "APIs"],
   freelancer: {
             role: [Developer, GraphicDesigner],
-            contact: Linkedin,
+            contact: "manelcastellvicerezuela@gmail.com",
             projects: "Tekapps, GooglePersonalized"
   },
   challenge: "I am doing the #1YearOfAllCodes challenge"
