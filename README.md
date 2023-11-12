@@ -5,7 +5,7 @@
 💻 I am passionate about navigating the vast realm of development to create unique experiences.<br>
 🌐 Join me on this journey of turning code into reality! #CodeDreamer #InnovationEnthusiast <br>
 
-[![Curriculum](https://img.shields.io/badge/Curriculum-Vitae)](https://manelcc-web.000webhostapp.com/cv.pdf)
+[![Curriculum](https://img.shields.io/badge/Curriculum-Vitae?color=red)](https://manelcc-web.000webhostapp.com/cv.pdf)
 [![Linkedin: manelcc](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/manelcc/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/12manel123?label=follow&style=social)](https://github.com/12manel123)
 
