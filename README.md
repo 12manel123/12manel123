@@ -28,8 +28,8 @@ const manel = {
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi,<b> I'll be happy to meet you more!</b> :)</em>
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12manel123&layout=compact"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=12manel123&show_icons=true"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12manel123&layout=compact&theme=dark"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=12manel123&show_icons=true&theme=dark"/></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12manel123&hide_progress=true&theme=dark)
 [![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=12manel123&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
