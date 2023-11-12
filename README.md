@@ -1,5 +1,4 @@
-<h2> Hi, I'm Manel Castellví! 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Manel Castellví! </h2>
 <img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="230">
 
 🚀 Passionate Full Stack Developer on a mission to exceed technological standards with innovative solutions.<br>
@@ -31,3 +30,4 @@ const manel = {
 
 ---
 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
