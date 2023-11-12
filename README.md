@@ -6,7 +6,7 @@
 🌐 Join me on this journey of turning code into reality! #CodeDreamer #InnovationEnthusiast <br>
 
 <a href="https://manelcc-web.000webhostapp.com/cv.pdf"><img src="https://github.com/terrytangyuan/terrytangyuan/blob/master/imgs/cv.svg" alt="Curriculum Vitae"></a>
-[![Linkedin: manelcc](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/manelcc/)
+[![Linkedin: manelcc](https://img.shields.io/badge/-manelcc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manelcc/)](https://www.linkedin.com/in/manelcc/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/12manel123?label=follow&style=social)](https://github.com/12manel123)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
