@@ -14,13 +14,12 @@ https://github.com/d-maza
 ```javascript
 const manel = {
   pronouns: "he" | "him",
-  code: [Javascript, Java, Angular, PHP, SQL, C, Typescript],
+  code: [Javascript, Java, Angular, PHP, SQL, .NET, Typescript],
   tools: [Node, Docker, Ionic, Spring, Firebase, Railway],
   architecture: ["microservices", "MVC", "RESTful APIs"],
   actualProject: {
                         name: "MyFood",
                         contributors: [@d_maza, @dani],
-                        Documentation: "[![MyFood](https://img.shields.io/badge/MyFood-Visit%20Notion-blueviolet)](https://gigantic-sole-666.notion.site/MyFood-a132f96e9c0e4bdeb9cc0a70c402b9eb)",
                         URL: "",
 
                       },
