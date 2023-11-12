@@ -10,20 +10,13 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/12manel123?label=follow&style=social)](https://github.com/12manel123)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-https://github.com/d-maza
 ```javascript
 const manel = {
   pronouns: "he" | "him",
-  code: [Javascript, Java, Angular, PHP, SQL, .NET, Typescript],
+  code: [Javascript, Java, Angular, PHP, SQL, C, Typescript],
   tools: [Node, Docker, Ionic, Spring, Firebase, Railway],
   architecture: ["microservices", "MVC", "RESTful APIs"],
-  actualProject: {
-                        name: "MyFood",
-                        contributors: [@d_maza, @dani],
-                        URL: "",
-
-                      },
- challenge: "I am doing the #1YearOfAllCodes challenge"
+  challenge: "I am doing the #1YearOfAllCodes challenge"
 }
 ```
 
