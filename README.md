@@ -27,6 +27,4 @@ const manel = {
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi,<b> I'll be happy to meet you more!</b> :)</em>
 
-
 ![snake gif](https://github.com/12manel123/12manel123/blob/output/github-contribution-grid-snake.gif)
-![gitartwork](gitartwork.svg)
