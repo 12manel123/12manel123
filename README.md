@@ -1,6 +1,6 @@
 <h2> Hi, I'm Manel Castellví! 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="230">
 
 🚀 Passionate Full Stack Developer on a mission to exceed technological standards with innovative solutions.<br>
 💻 Conflict resolution aficionado through effective communication and teamwork. Navigating the vast realm of development to craft unique and functional experiences.<br>
@@ -30,4 +30,4 @@ const manel = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-[![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=12manel123)](https://github.com/anuraghazra/github-readme-stats)
+
