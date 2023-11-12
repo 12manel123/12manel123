@@ -10,21 +10,22 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/12manel123?label=follow&style=social)](https://github.com/12manel123)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+https://github.com/d-maza
 ```javascript
 const manel = {
   pronouns: "he" | "him",
-  code: [Javascript, Java, Angular, PHP, SQL, C#, C++],
+  code: [Javascript, Java, Angular, PHP, SQL, C, Typescript],
   tools: [Node, Docker, Ionic, Spring, Firebase, Railway],
   architecture: ["microservices", "MVC", "RESTful APIs"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+  actualProject: {
+                        name: "MyFood",
+                        contributors: [@d_maza, @dani],
+                        Documentation: "[![MyFood](https://img.shields.io/badge/MyFood-Visit%20Notion-blueviolet)](https://gigantic-sole-666.notion.site/MyFood-a132f96e9c0e4bdeb9cc0a70c402b9eb)",
+                        URL: "",
+
                       },
  challenge: "I am doing the #1YearOfAllCodes challenge"
 }
 ```
 
----
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi,<b> I'll be happy to meet you more!</b> :)</em>
