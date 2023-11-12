@@ -13,9 +13,9 @@
 ```javascript
 const manel = {
   pronouns: "he" | "him",
-  code: [Javascript, Java, Angular, PHP, SQL, Typescript, C++, C#],
+  code: [Javascript, Java, Angular, PHP, SQL, Typescript, C],
   tools: [Node, Docker, Ionic, Spring, Firebase, MongoDB, Railway],
-  architecture: ["microservices", "MVC", "RESTful APIs"],
+  architecture: ["microservices", "MVC", "APIs"],
   freelancer: {
             role: [Developer, GraphicDesigner],
             contact: Linkedin,
