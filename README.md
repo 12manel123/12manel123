@@ -30,6 +30,3 @@ const manel = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12manel123&layout=compact&theme=dark"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=12manel123&show_icons=true&theme=dark"/></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12manel123&hide_progress=true&theme=dark)
-[![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=12manel123&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
