@@ -4,8 +4,7 @@
 🚀 On a mission to exceed technological standards with innovative solutions.<br>
 💻 I am passionate about navigating the vast realm of development to create unique experiences.<br>
 🌐 Join me on this journey of turning code into reality! #CodeDreamer #InnovationEnthusiast <br>
-
-<a href="https://manelcc-web.000webhostapp.com/cv.pdf"><img src="https://github.com/terrytangyuan/terrytangyuan/blob/master/imgs/cv.svg" alt="Curriculum Vitae"></a>
+<a href="https://manelcc-web.000webhostapp.com/cv.pdf"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/464952261b11c4d89b1a3e2292b72cb2576069b4/imgs/cv.svg" alt="Curriculum Vitae"></a>
 [![Linkedin: manelcc](https://img.shields.io/badge/-manelcc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manelcc/)](https://www.linkedin.com/in/manelcc/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/12manel123?label=follow&style=social)](https://github.com/12manel123)
 
