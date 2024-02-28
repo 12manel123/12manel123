@@ -7,20 +7,23 @@
 <a href="https://manelcc-web.000webhostapp.com/cv.pdf"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/464952261b11c4d89b1a3e2292b72cb2576069b4/imgs/cv.svg" alt="Curriculum Vitae"></a>
 [![Linkedin: manelcc](https://img.shields.io/badge/-manelcc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manelcc/)](https://www.linkedin.com/in/manelcc/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/12manel123?label=follow&style=social)](https://github.com/12manel123)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const manel = {
   pronouns: "he" | "him",
-  code: [Javascript, Java, Angular, PHP, SQL, Typescript, C],
-  tools: [Node, Docker, Ionic, Spring, Firebase, MongoDB, Railway],
+  code: [Javascript, Java, Angular, PHP, SQL, Typescript, C, PLSQL, APEX],
+  tools: [Node, Docker, Ionic, Spring, Firebase, MongoDB, Railway, OracleDatabase],
   architecture: ["microservices", "MVC", "APIs"],
   freelancer: {
             role: [Developer, GraphicDesigner],
             contact: "manelcastellvicerezuela@gmail.com",
             projects: [MyFood, Tekapps, BusEMT, GoogleEdit]
   },
-  challenge: "I am doing the #1YearOfAllCodes challenge"
+  team: "I'm in the #magentateam in @T-Systems Iberia",
+  mail: {
+            personal: "manelcastellvicerezuela@gmail.com",
+            enterprice: "manel.castellvi-cerezuela@t-systems.com"
+  }
 }
 ```
 
