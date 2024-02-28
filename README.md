@@ -19,10 +19,13 @@ const manel = {
             contact: "manelcastellvicerezuela@gmail.com",
             projects: [MyFood, Tekapps, BusEMT, GoogleEdit]
   },
-  team: "I'm in the #magentateam in @T-Systems Iberia",
-  mail: {
-            personal: "manelcastellvicerezuela@gmail.com",
-            enterprice: "manel.castellvi-cerezuela@t-systems.com"
+  enterprise: {
+            name: "T-Systems Iberia Reus",
+            description: "I'm in the #magentateam in @T-Systems Iberia",
+            role: ["Ingeniery Programmer", "BBDD manteniment"],
+            length_company: 1,
+            link: "t-systems.com",
+            contact: "manel.castellvi-cerezuela@t-systems.com"
   }
 }
 ```
