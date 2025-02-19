@@ -23,7 +23,7 @@ const manel = {
             name: "T-Systems Iberia Reus",
             description: "I'm in the #magentateam in @T-Systems Iberia",
             role: ["Ingeniery Programmer", "BBDD manteniment"],
-            length_company: 1,
+            length_company: 2,
             link: "t-systems.com",
             contact: "manel.castellvi-cerezuela@t-systems.com"
   }
